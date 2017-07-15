@@ -1,0 +1,8 @@
+{
+    "repositories": [
+        {
+            "url": "https://github.com/onehost1/Fasttemplate",
+            "type": "git"
+        }
+    ]
+}
