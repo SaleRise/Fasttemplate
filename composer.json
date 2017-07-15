@@ -1,6 +1,7 @@
 {
     "name": "onehost1/fast-template",
     "description": "Old but fast Template Engine.",
+    "version": "1.0",
     "repositories": [
         {
             "url": "https://github.com/onehost1/Fasttemplate",
