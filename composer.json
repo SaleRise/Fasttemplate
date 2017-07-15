@@ -1,11 +1,9 @@
 {
     "name": "onehost1/fast-template",
-    "description": "Old but fast Template Engine.",
+    "description": "Old but fast Template Engine",
+    "type": "library",
     "version": "1.0",
-    "repositories": [
-        {
-            "url": "https://github.com/onehost1/Fasttemplate",
-            "type": "git"
-        }
-    ]
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
 }
